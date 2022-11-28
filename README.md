@@ -1,2 +1,2 @@
 # pet-shop-example
-Truffle Pet Shop Example 
+A Dapp example created with Truffle
